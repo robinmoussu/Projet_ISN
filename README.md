@@ -1,8 +1,9 @@
 # Projet_ISN
  
 Partie 1 : encoder / décoder texte
-<blockquote> Dossier : Encodage texte </blockquote>  
 =
+<blockquote> Dossier : Encodage texte </blockquote>  
+
 message_à_encoder.txt
 -
 Desctiption : message texte  
