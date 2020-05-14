@@ -9,6 +9,11 @@ message_à_encoder.txt
 Desctiption : message texte  
 Contenu : coordonnées GPS à dissimuler  
 
+message_décodé.txt
+-
+Desctiption : message texte  
+Contenu : message décodé par le programme
+
 Encoder.py
 -
 <blockquote> Fichiers en entrée : message_à_encoder.txt </blockquote>  
