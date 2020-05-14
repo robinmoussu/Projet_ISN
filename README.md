@@ -15,7 +15,7 @@ Encoder.py
 </br> Copier contenu fichier dans variable "message"
 </br> Convertir "message" en suite de chiffres
 </br> Passer en base 6 pour gagner de l'espace
-</br> <em> Valeur max : 255 donc le dernier chiffre ne doit pas dépasser 5 d'où la base 6 </em>
+</br> <em> REM : Valeur max : 255 donc le dernier chiffre ne doit pas dépasser 5 d'où la base 6 </em>
 </br> Enregistrer le message ainsi encodé dans une variable : message_codé
 
 Decoder.py
