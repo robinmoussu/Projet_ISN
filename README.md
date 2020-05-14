@@ -13,3 +13,9 @@
 			Convertir "message" en suite de chiffres
 			Passer en base 6 pour gagner de l'espace
 				Valeur max : 255 donc le dernier chiffre doit
+
+texte
+==
+texte
+-
+<b> JAAJ <b>
