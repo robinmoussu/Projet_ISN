@@ -4,16 +4,16 @@ Partie 1 : encoder / décoder texte
 =
 message_à_encoder.txt
 -
-Desctiption : message texte
-Contenu : coordonnées GPS à dissimuler
+Desctiption : message texte  
+Contenu : coordonnées GPS à dissimuler  
 
 Encoder.py
 -
-Fichiers en entrée : message_à_encoder.txt
-Algo :
-	Ouvrir fichier texte
-	Copier contenu fichier dans variable "message"
-	Convertir "message" en suite de chiffres
-	Passer en base 6 pour gagner de l'espace
+<blockquote> Fichiers en entrée : message_à_encoder.txt </blockquote>  
+<strong> Algo : </strong>  
+	Ouvrir fichier texte  
+	Copier contenu fichier dans variable "message"  
+	Convertir "message" en suite de chiffres  
+	Passer en base 6 pour gagner de l'espace  
 		<em> Valeur max : 255 donc le dernier chiffre doit <em>
 	Jaaj
