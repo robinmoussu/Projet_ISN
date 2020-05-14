@@ -32,3 +32,16 @@ Decoder.py
 </br> Passer en base 10 le message codé
 </br> Convertir le message codé en caractères
 </br> Enregistrer le message décodé dans un fichier : message_décodé
+
+Partie 2 : encoder image
+=
+<blockquote> Dossier : Encodage image </blockquote>  
+
+image.bmp
+-
+Type : image bmp  
+Taille : 800x600px  
+Description	Delonix regia at the bank of Brisbane River in South Brisbane, Queensland, Australia  
+Auteur : Kgbo  
+Source : <https://commons.wikimedia.org/wiki/File:Delonix_regia_at_the_bank_of_Brisbane_River_in_South_Brisbane,_Queensland,_Australia.jpg>  
+License : Creative Commons Attribution-Share Alike 4.0 International  
