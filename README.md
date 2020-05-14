@@ -1,12 +1,11 @@
 # Projet_ISN
  
-#Partie 1 : encoder / décoder texte
-<h1> JAAJ <h1>
+<h1> Partie 1 : encoder / décoder texte <h1>
 
-	- message_à_encoder.txt
+	<h2> message_à_encoder.txt <h2>
 		Desctiption : message texte
 		Contenu : coordonnées GPS à dissimuler
-	- Encoder.py
+	<h2> Encoder.py <h2>
 		Fichiers en entrée : message_à_encoder.txt
 		Algo :
 			Ouvrir fichier texte
