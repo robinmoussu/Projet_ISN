@@ -18,12 +18,12 @@ Partie 1 : encoder image
 
 Algo d'encodage
 -
-</br> Ouvrir fichier texte "message_à_encoder.txt"
-</br> Copier contenu fichier dans variable "message"
-</br> Convertir "message" en suite de chiffres binaires puis en base 10
-</br> Passer en base 6 pour gagner de l'espace
+</br> - Ouvrir fichier texte "message_à_encoder.txt"
+</br> - Copier contenu fichier dans variable "message"
+</br> - Convertir "message" en suite de chiffres binaires puis en base 10
+</br> - Passer en base 6 pour gagner de l'espace
 </br> <em> REM : Valeur max : 255 donc le dernier chiffre ne doit pas dépasser 5 d'où la base 6 </em>
-</br> Enregistrer le message ainsi encodé dans une variable : "message_codé"
+</br> - Enregistrer le message ainsi encodé dans une variable : "message_codé"
 
 Fichiers
 -
