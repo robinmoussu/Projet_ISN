@@ -25,8 +25,6 @@ Algo d'encodage
 </br> <em> REM : Valeur max : 255 donc le dernier chiffre ne doit pas dépasser 5 d'où la base 6 </em>
 </br> - Enregistrer le message ainsi encodé dans une variable : "message_codé"
 
-Fichiers
--
 Message_à_encoder.txt
 -
 Desctiption : message texte  
@@ -70,9 +68,9 @@ Partie 2 : décoder image
 
 Algo de décodage
 -
-</br> Passer en base 10 le message codé
-</br> Convertir le message codé en caractères
-</br> Enregistrer le message décodé dans un fichier : "message_décodé.txt"
+</br> - Passer en base 10 le message codé
+</br> - Convertir le message codé en caractères
+</br> - Enregistrer le message décodé dans un fichier : "message_décodé.txt"
 
 message_décodé.txt
 -
