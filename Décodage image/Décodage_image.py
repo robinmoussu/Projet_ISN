@@ -23,10 +23,10 @@ def récupérer_message():
     return message_codé
 
 def renvoyer_bit_faible(nombre):
-    if(nombre>100):
+    if(nombre>=100):
         nombre=str(nombre)
         nombre2=nombre[2]
-    elif(nombre>10):
+    elif(nombre>=10):
         nombre=str(nombre)
         nombre2=nombre[1]
     else:
