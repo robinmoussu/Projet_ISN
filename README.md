@@ -48,7 +48,7 @@ License : Creative Commons Attribution-Share Alike 4.0 International
 
 Image.py
 -
-<blockquote> Fichiers en entrée : image.bmp </blockquote>  
+<blockquote> Fichiers en entrée : image.bmp, message_à_encoder.txt </blockquote>  
 <blockquote> Fichiers en sortie : image_sortie.bmp </blockquote>  
 <strong> Algo : </strong>
 </br> Ouvrir l'image

@@ -11,6 +11,10 @@ def enregistrer(message):
 
 #principal
 message_codé="131311351425042412305024012545011210225555440342240014245242443323551122021213311233253501210115454153"
+print(len(message_codé))
+print(message_codé)
+clé=int(input("Entrer le code"))
+message_codé=message_codé[0:clé]
 message=décoder(message_codé)
 print(message)
 enregistrer(message)
