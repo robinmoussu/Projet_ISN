@@ -4,7 +4,6 @@ import numpy as np
 
 #fonctions
 def remplacer_bit_faible(nombre, compteur):
-    print(compteur)
     if(nombre>100):
         nombre=str(nombre)
         nombre2=(nombre[0]+nombre[1]+message_codé[compteur])
@@ -40,9 +39,9 @@ else:
     for k in range(cap-len(message_codé)):
         message_codé=(message_codé+"0")
 compteur=0
-matrice_r,compteur=matrice(0,compteur)
-matrice_g,compteur=matrice(1,compteur)
-matrice_b,compteur=matrice(2,compteur)
+compteur,matrice_r=matrice(0,compteur)
+compteur,matrice_g=matrice(1,compteur)
+compteur,matrice_b=matrice(2,compteur)
 
 im2 = Image.new("RGB",(l,h))
 for x in range(l):
