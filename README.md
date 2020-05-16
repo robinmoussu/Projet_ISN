@@ -90,3 +90,11 @@ Décodage_image.py
 </br> - Ne garder que le message en tronquant tous les 0, à l'aide de la valeur de la "clé"
 </br> - Afficher "message_codé" ainsi récupéré
 </br> - Décoder "message_codé"
+
+Installation
+-
+python3 -m venv VENV
+source VENV/bin/activate
+pip install -r requirements.txt
+
+Pour générer le fichier requirements.txt, on peut utiliser la commande `pip freeze > requirement.txt`.
